@@ -85,8 +85,4 @@ def callback_check_subscription(call):
 # تشغيل البوت
 bot.polling()
 
-pyTelegramBotAPI
-requests
-python-dotenv
 
-worker: python3 bot.py
